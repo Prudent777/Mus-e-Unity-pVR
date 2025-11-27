@@ -1,2 +1,2 @@
-# Mus-e-Unity-p VR/AR
+# Muse-e-Unity-p VR/AR
 Musée VR/AR
